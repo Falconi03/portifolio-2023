@@ -8,7 +8,7 @@ function Contact() {
   return (
     <div className=" flex flex-col items-center gap-20 font-semibold w-full">
       <span className="w-full lg:w-1/2 text-sm 2xl:text-3xl  text-justify text-[#ffffffb6]">
-        Tem um projeto que você precisa de ajuda? Me manda uma menssagem nas
+        Tem um projeto e precisa de ajuda? Me manda uma mensagem nas
         redes sociais ou entre em contato comigo através do Whatsapp!
       </span>
       <a

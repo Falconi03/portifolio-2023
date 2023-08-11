@@ -89,12 +89,12 @@ export default function Home() {
               Como programador web Fullstack, possuo especialização em HTML,
               CSS, JavaScript, React, Node.js e MySQL. Minhas habilidades
               abrangem tanto o front-end quanto o back-end, permitindo-me criar
-              interfaces interativas e responsivas, ao mesmo tempo que
-              desenvolvo sistemas robustos e escaláveis. Minha versatilidade e
-              paixão pela inovação me tornam uma peça fundamental em projetos
-              digitais de sucesso. Estou sempre em busca de aprendizado
-              para me manter atualizado nas tecnologias mais recentes
-              e proporcionar a melhor experiência aos usuários.
+              interfaces interativas e responsivas, e desenvolver sistemas
+              robustos e escaláveis. Versatil e apaixonado por inovação atuo em
+              múltiplas funções para entregar projetos digitais de sucesso.
+              Estou sempre em busca de aprendizado para me manter atualizado nas
+              tecnologias mais recentes e proporcionar a melhor experiência aos
+              usuários.
             </p>
             <div className="flex justify-center">
               <a

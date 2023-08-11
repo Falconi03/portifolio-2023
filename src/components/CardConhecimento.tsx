@@ -17,10 +17,10 @@ function CardConhecimento() {
         <span className="2xl:text-2xl font-semibold">Next.js / React</span>
         <p className=" lg:text-justify ">
           Ao longo de três anos, tenho me dedicado ao estudo e aperfeiçoamento
-          do React, participando de cursos e projetos que envolvem essa
-          biblioteca. Através dessa jornada, adquiri proficiência em criar
-          projetos responsivos e interativos, aplicando meus conhecimentos tanto
-          em âmbito educacional quanto profissional.
+          do React, React Native e Next.js, participando de cursos e projetos
+          que envolvem essas bibliotecas. Através dessa jornada, adquiri
+          proficiência em criar projetos responsivos e interativos, aplicando
+          meus conhecimentos tanto em âmbito educacional quanto profissional..
         </p>
       </div>
       <div className="row-span-2 relative border border-white p-6 2xl:p-12 flex flex-col gap-4 justify-center">
