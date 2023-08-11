@@ -13,8 +13,6 @@ import Contact from "@/components/Contact";
 import LogoWhatsapp from "@/components/LogoWhatsapp";
 import { PointerContext } from "@/context/SpringContext";
 import Sidebar from "@/components/Sidebar";
-import * as env from "../.env.json";
-import axios from "axios";
 
 let slides = [
   <img src="/br-0.png" alt="" key={0} />,
