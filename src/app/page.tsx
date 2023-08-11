@@ -93,7 +93,7 @@ export default function Home() {
               desenvolvo sistemas robustos e escaláveis. Minha versatilidade e
               paixão pela inovação me tornam uma peça fundamental em projetos
               digitais de sucesso. Estou sempre em busca de aprendizado
-              constante para me manter atualizado nas tecnologias mais recentes
+              para me manter atualizado nas tecnologias mais recentes
               e proporcionar a melhor experiência aos usuários.
             </p>
             <div className="flex justify-center">
@@ -133,7 +133,7 @@ export default function Home() {
         >
           <div className="relative">
             <span className="text-4xl lg:text-7xl 2xl:text-9xl font-bold text-[#ffffff2b]">
-              Progetos
+              Projetos
             </span>
             <span className="absolute -bottom-1 left-1/2 translate-x-[-50%] text-lg lg:text-2xl 2xl:text-4xl font-bold">
               Trabalhos
