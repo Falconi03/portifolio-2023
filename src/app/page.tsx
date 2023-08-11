@@ -90,7 +90,7 @@ export default function Home() {
               CSS, JavaScript, React, Node.js e MySQL. Minhas habilidades
               abrangem tanto o front-end quanto o back-end, permitindo-me criar
               interfaces interativas e responsivas, e desenvolver sistemas
-              robustos e escaláveis. Versatil e apaixonado por inovação atuo em
+              robustos e escaláveis. Versátil e apaixonado por inovação atuo em
               múltiplas funções para entregar projetos digitais de sucesso.
               Estou sempre em busca de aprendizado para me manter atualizado nas
               tecnologias mais recentes e proporcionar a melhor experiência aos

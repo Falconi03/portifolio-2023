@@ -32,7 +32,7 @@ function Contact() {
           className="instagram flex items-center gap-2 px-6 py-3 hover:scale-105 ease-in-out duration-300 text-lg rounded-md bg-[#fcfcfc11] border border-white hover:drop-shadow-[0px_0px_2px_rgba(255,255,255)]"
         >
           <FaInstagram className="text-3xl" />
-          <span className="hidden md:block">Instagran</span>
+          <span className="hidden md:block">Instagram</span>
         </a>
         <a
           onMouseEnter={() => setPointer("scale-[5] animate-pulse")}

@@ -20,7 +20,7 @@ function CardConhecimento() {
           do React, React Native e Next.js, participando de cursos e projetos
           que envolvem essas bibliotecas. Através dessa jornada, adquiri
           proficiência em criar projetos responsivos e interativos, aplicando
-          meus conhecimentos tanto em âmbito acadêmico quanto profissional..
+          meus conhecimentos tanto em âmbito acadêmico quanto profissional.
         </p>
       </div>
       <div className="row-span-2 relative border border-white p-6 2xl:p-12 flex flex-col gap-4 justify-center">
