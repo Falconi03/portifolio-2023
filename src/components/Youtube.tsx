@@ -25,10 +25,9 @@ const cardVariants: Variants = {
 };
 
 function Card(props: { video: IVideos }) {
-  console.log(props.video);
   return (
     <motion.div
-      className="overflow-hidden flex items-center justify-center relative drop-shadow-[0px_0px_8px_rgba(255,255,255)] rounded-lg overflow-hidden"
+      className="flex items-center justify-center relative drop-shadow-[0px_0px_8px_rgba(255,255,255)] rounded-lg overflow-hidden"
       initial="offscreen"
       whileInView="onscreen"
       viewport={{ once: false, amount: 0.8 }}

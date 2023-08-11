@@ -142,7 +142,7 @@ export default function Home() {
             </span>
           </div>
           <div className="w-full flex flex-col gap-10 items-center">
-            <img src="/BRMS2.png" className="w-" alt="" />
+            <img src="/BRMS2.png" alt="" />
             <Carousel slides={slides} autoplay={true} interval={5000} />
           </div>
         </div>
