@@ -17,17 +17,17 @@ import * as env from "../.env.json";
 import axios from "axios";
 
 let slides = [
-  <img src="/br-0.png" alt="" />,
-  <img src="/br-1.png" alt="" />,
-  <img src="/br-2.png" alt="" />,
-  <img src="/br-3.png" alt="" />,
-  <img src="/br-4.png" alt="" />,
-  <img src="/br-5.png" alt="" />,
-  <img src="/br-6.png" alt="" />,
-  <img src="/br-7.png" alt="" />,
-  <img src="/br-8.png" alt="" />,
-  <img src="/br-9.png" alt="" />,
-  <img src="/br-10.png" alt="" />,
+  <img src="/br-0.png" alt="" key={0} />,
+  <img src="/br-1.png" alt="" key={1} />,
+  <img src="/br-2.png" alt="" key={2} />,
+  <img src="/br-3.png" alt="" key={3} />,
+  <img src="/br-4.png" alt="" key={4} />,
+  <img src="/br-5.png" alt="" key={5} />,
+  <img src="/br-6.png" alt="" key={6} />,
+  <img src="/br-7.png" alt="" key={7} />,
+  <img src="/br-8.png" alt="" key={8} />,
+  <img src="/br-9.png" alt="" key={9} />,
+  <img src="/br-10.png" alt="" key={10} />,
 ];
 
 export default function Home() {
