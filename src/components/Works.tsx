@@ -17,7 +17,7 @@ let slides = [
 function Works() {
   return (
     <div className="w-full flex flex-col gap-10 items-center">
-      <a href="https://clienteportal.brms.com.br/login">
+      <a href="https://clienteportal.brms.com.br/login" target="_blank">
         <img src="/BRMS2.png" alt="" />
       </a>
       <div className="flex gap-4">
