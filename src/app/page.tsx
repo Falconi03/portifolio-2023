@@ -1,32 +1,19 @@
 "use client";
-import { useRef, useContext, useEffect } from "react";
+import { useRef, useContext} from "react";
 import { motion } from "framer-motion";
 import Header from "@/components/Header";
 import Youtube from "@/components/Youtube";
 import { FaReact, FaCss3, FaHtml5, FaJs } from "react-icons/fa";
 import Presentation from "@/components/Presentation";
 import Spring from "@/components/Spring";
-import { Carousel } from "@/components/Carousel";
 import CardConhecimento from "@/components/CardConhecimento";
 import LogoYoutube from "@/components/LogoYoutube";
 import Contact from "@/components/Contact";
 import LogoWhatsapp from "@/components/LogoWhatsapp";
 import { PointerContext } from "@/context/SpringContext";
 import Sidebar from "@/components/Sidebar";
+import Works from "@/components/Works";
 
-let slides = [
-  <img src="/br-0.png" alt="" key={0} />,
-  <img src="/br-1.png" alt="" key={1} />,
-  <img src="/br-2.png" alt="" key={2} />,
-  <img src="/br-3.png" alt="" key={3} />,
-  <img src="/br-4.png" alt="" key={4} />,
-  <img src="/br-5.png" alt="" key={5} />,
-  <img src="/br-6.png" alt="" key={6} />,
-  <img src="/br-7.png" alt="" key={7} />,
-  <img src="/br-8.png" alt="" key={8} />,
-  <img src="/br-9.png" alt="" key={9} />,
-  <img src="/br-10.png" alt="" key={10} />,
-];
 
 export default function Home() {
   const knowledge = useRef<HTMLDivElement>(null);
@@ -139,10 +126,7 @@ export default function Home() {
               Trabalhos
             </span>
           </div>
-          <div className="w-full flex flex-col gap-10 items-center">
-            <img src="/BRMS2.png" alt="" />
-            <Carousel slides={slides} autoplay={true} interval={5000} />
-          </div>
+          <Works/>
         </div>
         <div
           className="w-full flex flex-col gap-5 lg:gap-10 items-center p-6"
